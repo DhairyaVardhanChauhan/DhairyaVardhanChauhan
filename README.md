@@ -3,7 +3,7 @@
 
 <img align = "right" alt = coding man width = "400px" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f0af47edseaysj8x2nmu22sd7cp99nuoa73be9g7&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heySomil&label=Profile%20views&color=0e75b6&style=flat" alt="heySomil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DhairyaVardhanChauhan&label=Profile%20views&color=0e75b6&style=flat" alt="DhairyaVardhanChauhan" /> </p>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> About Me:
  <g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently Looking For Internship<br><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate with Full Stack Developers<br><g-emoji class="g-emoji" alias="handshake" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f91d.png">🤝</g-emoji> I’m looking for help with Interoperability and Smart Contract Auditing<br><g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> I’m currently learning React, Typescript and exploring Express,prisma<br><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about  Full Stack Web3, AI/ML  <br><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Reach me at <a href="mailto:somil.yadav2403@gmail.com">somil.yadav2403@gmail.com</a></p>
@@ -19,10 +19,10 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" /> GitHub Stats:
 
-<a href="https://github.com/heySomil/github-readme-stats"><img alt="Somil's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=heySomil&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="450" /></a>
-  <a href="https://github.com/heySomil/github-readme-stats"><img alt="Somil's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=heySomil&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width ="350" /></a>
+<a href="https://github.com/DhairyaVardhanChauhan/github-readme-stats"><img alt="Somil's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DhairyaVardhanChauhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="450" /></a>
+  <a href="https://github.com/DhairyaVardhanChauhan/github-readme-stats"><img alt="Somil's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DhairyaVardhanChauhan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width ="350" /></a>
 
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=heySomil&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DhairyaVardhanChauhan&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
